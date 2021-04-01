@@ -1,0 +1,24 @@
+{
+    "content_scripts": [
+      {
+        "css": [
+          "style.css"
+        ],
+        "matches": [
+          "*://stackoverflow.com/*"
+        ]
+      }
+    ],
+    "description": "Unlock unlimited copy pasting, and make it through April Fools without production delays!.",
+    "icons": {
+      "16": "img/logo-16.png",
+      "128": "img/logo-128.png",
+      "512": "img/logo-512.png"
+    },
+    "permissions": [
+        "*://stackoverflow.com/*"
+      ],
+    "manifest_version": 2,
+    "name": "Stack Unlimited",
+    "version": "0.0.1"
+}
