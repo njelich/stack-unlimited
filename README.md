@@ -2,6 +2,8 @@
 
 Unlock unlimited copy pasting, and make it through April Fools without production delays!.
 
+![The extension banner](img/banner.png)
+
 Because of the urgency of the situation, there was no time to publish to the chrome web store - thus, this extension requires a manual install. It's quite simple, so follow the instructions below.
 
 ### How to install
