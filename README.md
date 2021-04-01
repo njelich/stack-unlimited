@@ -1,4 +1,4 @@
-# Stack Unlimited - Chrome and Firefox extension to remove draconic copy limits on stackoverflow
+# Stack Unlimited - Unlock SO, keep your job
 
 Unlock unlimited copy pasting, and make it through April Fools without production delays!.
 
