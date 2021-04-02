@@ -20,6 +20,7 @@ Download the extension by clicking [this link](https://github.com/njelich/stack-
 **Chrome**
 
  * Type chrome://extensions in the Chrome URL bar and press enter.
+ * Enable developer mode using the toggle on the right
  * Click Load Unpacked on the left side of the screen.
  * Navigate to the location of the folder you unzipped, and select it.
  * Your extension is now loaded, and there are no April Fools production delays.
